@@ -1,4 +1,4 @@
-Jargon
+# Jargonic flimflam 
 
 Koept is a ~~conceptual~~ label - experimentation in generating, recording, performing and distribution of fine rave art.
 
@@ -13,6 +13,6 @@ Software
 AI
 post-production
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4MjExODQzNSw3Mjk1NDUyODYsLTE2ND
+eyJoaXN0b3J5IjpbMjAzNjEyNDQ1Niw3Mjk1NDUyODYsLTE2ND
 k2NTUwMjcsMTgzOTc3NzQyNl19
 -->
