@@ -6,6 +6,10 @@ Rave
 Abstraction
 instructional
 
+Software
+AI
+post-production
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk2NTUwMjcsMTgzOTc3NzQyNl19
+eyJoaXN0b3J5IjpbNzI5NTQ1Mjg2LC0xNjQ5NjU1MDI3LDE4Mz
+k3Nzc0MjZdfQ==
 -->
