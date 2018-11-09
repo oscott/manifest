@@ -4,7 +4,8 @@ is an underground label - The fine art of rave abstraction and conceptual label 
 
 Rave 
 Abstraction
-inst
+instructional
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NTE4NzQyLDE4Mzk3Nzc0MjZdfQ==
+eyJoaXN0b3J5IjpbLTE2NDk2NTUwMjcsMTgzOTc3NzQyNl19
 -->
