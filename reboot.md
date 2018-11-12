@@ -1,5 +1,5 @@
- 1. Sourdough [^1] 
- 2. CBT [^2]
+ 1. Sourdough 
+ 2. CBT 
  3. Money
  4. Mindfulness
  5. Medication and supplements
@@ -18,10 +18,6 @@
 [comment]: # (This actually is the most platform independent comment)
 
 
-[^1]:Add instructions.
-[^2]:How many, subjects covered, items learned.
-
-
 <!--stackedit_data:
 eyJkaXNjdXNzaW9ucyI6eyJmRFE5NGtxMUZBaWtFSGx3Ijp7In
 N0YXJ0Ijo0LCJlbmQiOjEzLCJ0ZXh0IjoiU291cmRvdWdoIn19
@@ -29,7 +25,7 @@ LCJjb21tZW50cyI6eyJxbGNacGhRdnJiV0o5QnVjIjp7ImRpc2
 N1c3Npb25JZCI6ImZEUTk0a3ExRkFpa0VIbHciLCJzdWIiOiJn
 aDoxMTQzNDQiLCJ0ZXh0IjoiQWRkIGluc3RydWN0aW9ucy4iLC
 JjcmVhdGVkIjoxNTQyMDI2NzIyMTIyfX0sImhpc3RvcnkiOlsx
-OTU0MzQ4NTQ1LDE5NTQzNDg1NDUsLTIwOTE3Mzk4NDEsLTE5Nj
-AyNTEzMDAsLTEzMzI2NTA0MDQsLTYzNDM0MTk0MiwtMTU1NjI2
-MjUwNl19
+MDExMzc5MTYsMTk1NDM0ODU0NSwtMjA5MTczOTg0MSwtMTk2MD
+I1MTMwMCwtMTMzMjY1MDQwNCwtNjM0MzQxOTQyLC0xNTU2MjYy
+NTA2XX0=
 -->
