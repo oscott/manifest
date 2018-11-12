@@ -14,6 +14,12 @@
  14. Mating in captivity
  15. Non-violent communication
 
+[Google][] koept is [koept][]
+
+
+[Google]: http://google.com/
+[koept]: http://koe.pt
+
 
 [comment]: # (This actually is the most platform independent comment)
 
@@ -24,8 +30,8 @@ N0YXJ0Ijo0LCJlbmQiOjEzLCJ0ZXh0IjoiU291cmRvdWdoIn19
 LCJjb21tZW50cyI6eyJxbGNacGhRdnJiV0o5QnVjIjp7ImRpc2
 N1c3Npb25JZCI6ImZEUTk0a3ExRkFpa0VIbHciLCJzdWIiOiJn
 aDoxMTQzNDQiLCJ0ZXh0IjoiQWRkIGluc3RydWN0aW9ucy4iLC
-JjcmVhdGVkIjoxNTQyMDI2NzIyMTIyfX0sImhpc3RvcnkiOlsx
-MDExMzc5MTYsMTk1NDM0ODU0NSwtMjA5MTczOTg0MSwtMTk2MD
-I1MTMwMCwtMTMzMjY1MDQwNCwtNjM0MzQxOTQyLC0xNTU2MjYy
-NTA2XX0=
+JjcmVhdGVkIjoxNTQyMDI2NzIyMTIyfX0sImhpc3RvcnkiOlst
+MTI3MzgyODUzMSwxMDExMzc5MTYsMTk1NDM0ODU0NSwtMjA5MT
+czOTg0MSwtMTk2MDI1MTMwMCwtMTMzMjY1MDQwNCwtNjM0MzQx
+OTQyLC0xNTU2MjYyNTA2XX0=
 -->
