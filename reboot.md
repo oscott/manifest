@@ -1,5 +1,5 @@
  1. Sourdough [^1]
- 2. CBT [^B]
+ 2. CBT [^2]
  3. Money
  4. Mindfulness
  5. Medication and supplements
@@ -14,9 +14,9 @@
  14. Mating in captivity
  15. Non-violent communication
 
-[^1]:Add instructions
-[^b]: How many, subj
+[^1]:Add instructions.
+[^2]:How many, subjects covered, items learned.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTM3ODQ0NCwtMTMzMjY1MDQwNCwtNj
-M0MzQxOTQyLC0xNTU2MjYyNTA2XX0=
+eyJoaXN0b3J5IjpbLTE5NjAyNTEzMDAsLTEzMzI2NTA0MDQsLT
+YzNDM0MTk0MiwtMTU1NjI2MjUwNl19
 -->
