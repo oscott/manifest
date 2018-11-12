@@ -1,21 +1,21 @@
+ 1. Sourdough
+ 2. CBT
+ 3. Money
+ 4. Mindfulness
+ 5. Medication
+ 6. Peace is every step
+ 7. Self care
+ 8. 6 pack abs
+ 9. Challenge all patterns
+ 10. [The Celestine prophecy](https://en.wikipedia.org/wiki/The_Celestine_Prophecy)
+ 11. 4 agreements
+ 12. Deep work
+ 13. 5 second rule
+ 14. Mating in captivity
+ 15. Non-violent communication
 
--   Sourdough
--   CBT
--   Money
--   Mindfulness
--   Medication
--   Peace is every step
--   Self care
--   6 pack abs
--   Challenge all patterns
--   [The Celestine prophecy](https://en.wikipedia.org/wiki/The_Celestine_Prophecy)
--   4 agreements
--   Deep work
--   5 second rule
--   Mating in captivity
--   Non-violent communication
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0MDEzNTk4MywtMTMzMjY1MDQwNCwtNj
+eyJoaXN0b3J5IjpbLTQ4MTUwMjUxNCwtMTMzMjY1MDQwNCwtNj
 M0MzQxOTQyLC0xNTU2MjYyNTA2XX0=
 -->
