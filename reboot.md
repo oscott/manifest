@@ -14,9 +14,17 @@
  14. Mating in captivity
  15. Non-violent communication
 
+
+This is [an example][id] reference-style link.
+
+bkjbk
+nknk
+
+[id]: http://example.com/  "Optional Title Here" bjbjbjbj
+
+
 [^1]:Add instructions.
 [^2]:How many, subjects covered, items learned.
-
 
 
 <!--stackedit_data:
@@ -25,7 +33,7 @@ N0YXJ0Ijo0LCJlbmQiOjEzLCJ0ZXh0IjoiU291cmRvdWdoIn19
 LCJjb21tZW50cyI6eyJxbGNacGhRdnJiV0o5QnVjIjp7ImRpc2
 N1c3Npb25JZCI6ImZEUTk0a3ExRkFpa0VIbHciLCJzdWIiOiJn
 aDoxMTQzNDQiLCJ0ZXh0IjoiQWRkIGluc3RydWN0aW9ucy4iLC
-JjcmVhdGVkIjoxNTQyMDI2NzIyMTIyfX0sImhpc3RvcnkiOlst
-MjA5MTczOTg0MSwtMTk2MDI1MTMwMCwtMTMzMjY1MDQwNCwtNj
-M0MzQxOTQyLC0xNTU2MjYyNTA2XX0=
+JjcmVhdGVkIjoxNTQyMDI2NzIyMTIyfX0sImhpc3RvcnkiOlsx
+NDg3NjMxMjQzLC0yMDkxNzM5ODQxLC0xOTYwMjUxMzAwLC0xMz
+MyNjUwNDA0LC02MzQzNDE5NDIsLTE1NTYyNjI1MDZdfQ==
 -->
