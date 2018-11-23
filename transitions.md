@@ -1,4 +1,4 @@
-Shift focus from all the items that need doing in a day to ensuring clarity in the moment within each phase of the day. Then the items can flow. Below is a list that breaks down the day into different parts. then each has an opportunity to become mindful of the transition into a different states.
+Shift focus from all the items that need doing in a day to ensuring clarity in the moment within each phase of the day. Then the items can flow. Below is a list that breaks down the day into different parts. then each has an opportunity to become mindful of the transition into a different environments requiring different states of mind. The purpose is to not take your state of mind from one to the other and to startafresh wit
 
 
 |Phase|Moment|
@@ -15,5 +15,5 @@ Shift focus from all the items that need doing in a day to ensuring clarity in t
 |Packing up | updating work plan, leaving work  
 |Returning home | coming through the door, emptying bag and pockets.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjU0OTYwNTFdfQ==
+eyJoaXN0b3J5IjpbLTgwMDgzNTI4OV19
 -->
