@@ -6,7 +6,7 @@
  6. Peace is every step
  7. Self care
  8. 6 pack abs
- 9. Challenge all patterns
+ 9. Challenge all patterns *
  10. [The Celestine prophecy](https://en.wikipedia.org/wiki/The_Celestine_Prophecy)
  11. 4 agreements
  12. Deep work
@@ -30,8 +30,8 @@ N0YXJ0Ijo0LCJlbmQiOjEzLCJ0ZXh0IjoiU291cmRvdWdoIn19
 LCJjb21tZW50cyI6eyJxbGNacGhRdnJiV0o5QnVjIjp7ImRpc2
 N1c3Npb25JZCI6ImZEUTk0a3ExRkFpa0VIbHciLCJzdWIiOiJn
 aDoxMTQzNDQiLCJ0ZXh0IjoiQWRkIGluc3RydWN0aW9ucy4iLC
-JjcmVhdGVkIjoxNTQyMDI2NzIyMTIyfX0sImhpc3RvcnkiOlst
-MTI3MzgyODUzMSwxMDExMzc5MTYsMTk1NDM0ODU0NSwtMjA5MT
-czOTg0MSwtMTk2MDI1MTMwMCwtMTMzMjY1MDQwNCwtNjM0MzQx
-OTQyLC0xNTU2MjYyNTA2XX0=
+JjcmVhdGVkIjoxNTQyMDI2NzIyMTIyfX0sImhpc3RvcnkiOlsx
+MDQ0OTg1MjgzLC0xMjczODI4NTMxLDEwMTEzNzkxNiwxOTU0Mz
+Q4NTQ1LC0yMDkxNzM5ODQxLC0xOTYwMjUxMzAwLC0xMzMyNjUw
+NDA0LC02MzQzNDE5NDIsLTE1NTYyNjI1MDZdfQ==
 -->
