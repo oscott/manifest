@@ -1,4 +1,4 @@
-Shift focus from all the items that need doing to ensuring clarity in the moment within each phase of the day. 
+Shift focus from all the items that need doing in a day to ensuring clarity in the moment within each phase of the day. Then the items can flow. Below is a list that breaks dwn the day into different parts.
 
 
 |Phase|Moment|
@@ -15,5 +15,5 @@ Shift focus from all the items that need doing to ensuring clarity in the moment
 |Packing up | updating work plan, leaving work  
 |Returning home | coming through the door, emptying bag and pockets.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTc4Mzc2NzRdfQ==
+eyJoaXN0b3J5IjpbLTIwMDI3Njg5MjhdfQ==
 -->
