@@ -1,5 +1,7 @@
+Shift focus from all the items that need doing to ensuring clarity in the moment within each phase of the day. 
 
-|Phase|Moment of f  |
+
+|Phase|Moment|
 |--|--|
 |  |  |
 
@@ -15,5 +17,5 @@ The afternoon - updating work plan, email (tea)
 Packing up - updating work plan, leaving work  
 Returning home - coming through the door, emptying bag and pockets.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzM0NzAwMzNdfQ==
+eyJoaXN0b3J5IjpbNzc4NjMyMjgxXX0=
 -->
