@@ -12,7 +12,11 @@ instructional
 Software
 AI
 post-production
+
+Kingdom of Rad was
+
+Kunst Kernewek 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTU4MDAzNDYsNzI5NTQ1Mjg2LC0xNj
-Q5NjU1MDI3LDE4Mzk3Nzc0MjZdfQ==
+eyJoaXN0b3J5IjpbLTEwNTU0OTg1MTksLTEzOTU4MDAzNDYsNz
+I5NTQ1Mjg2LC0xNjQ5NjU1MDI3LDE4Mzk3Nzc0MjZdfQ==
 -->
