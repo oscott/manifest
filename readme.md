@@ -9,9 +9,7 @@ You have find me. Mistake of your choice it is my pleasure. Whether searching up
 If you wont, then am i at @oscott
 
 Be well and in the same location of happy to your day.
-
-groove
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY0MjM4MjgyLDQyMTk5MTM2MCwxODEwMz
-A2NjI0LDQzMjU4Mzc5NV19
+eyJoaXN0b3J5IjpbLTE2ODExMTQzMjgsNDIxOTkxMzYwLDE4MT
+AzMDY2MjQsNDMyNTgzNzk1XX0=
 -->
