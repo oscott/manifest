@@ -11,10 +11,11 @@ If you wont, then am i @oscott for your advisory.
 Be excellent with each other well and in the same location of happy to your day.
 
 OS
-
-
+Cornwall
+European Union
+Multiverse
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg3OTU1OTk4LC0xMTQ4MDE4ODE5LC01ND
-cwMzQ2MzYsNDIxOTkxMzYwLDE4MTAzMDY2MjQsNDMyNTgzNzk1
-XX0=
+eyJoaXN0b3J5IjpbLTEzOTE2MzQ3NTIsNDg3OTU1OTk4LC0xMT
+Q4MDE4ODE5LC01NDcwMzQ2MzYsNDIxOTkxMzYwLDE4MTAzMDY2
+MjQsNDMyNTgzNzk1XX0=
 -->
