@@ -1,17 +1,17 @@
 -   The Ruins - Carbis bay
 -   [Cast](https://twitter.com/CASTCornwall/status/880357730523000832)  - Helston
 -   The slab - Castle Beach
--   Temperance Hall - Penryn (Nobody )
+-   Temperance Hall - Penryn (Nobody knows it but me)
 -   Stuart Stephen memorial hall for infant welfare - Penryn
--   The Shipwrites inn - Falmouth
+-   The Shipwrites inn - Falmouth 
 -   38 west street
 -   Penryn town hall - Penryn
 -   kunst kernewek - Penryn
--   Jubilee warehouse - Penryn
+-   Jubilee warehouse - Penryn (Tipler 1st showing)
 -   miss peapods - Penryn
--   NTNU - trondheim
+-   NTNU - trondheim (Funghi snack chime / Google video)
 -   Bar - kyoto
--   pro-test lab LIETUVA - Vilnius
+-   pro-test lab LIETUVA - Vilnius 
 -   A story to tell - Iasi Romania
 -   rome
 -   Karl-Marx-Allee - berlin
@@ -27,5 +27,5 @@
 -   falmouth water sports centre - 
 -   palm beach hotel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDM3NTg4ODJdfQ==
+eyJoaXN0b3J5IjpbLTI3MzY3NTYwNV19
 -->
