@@ -1,3 +1,4 @@
+A selection of performance locations
 - **Venue - Location (Site specific work)**
 -   The Ruins - Carbis bay (real-time cave processing)
 -   [Cast](https://twitter.com/CASTCornwall/status/880357730523000832)  - Helston (the internet and timeless)
@@ -30,6 +31,7 @@
 - Junction (Saving all my love and 2 booty preparations / Rave-off / winamp crash)
 - goody hooo (the great filter A)
 - New river studios (the great filter B)
+- Mexicos - Hayle (virtuagirl will dance for you now)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTkxNTcxM119
+eyJoaXN0b3J5IjpbMjk0MjAzNzc3XX0=
 -->
