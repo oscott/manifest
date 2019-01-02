@@ -18,15 +18,15 @@
 -   spargo
 -   gillingvase beach
 -   castle beach
--   public life - London (Cheap3 / Karma Camelian)
--   baracuda bar
+-   public life - London (Cheap3 / Karma chameleon)
+-   baracuda bar (DJ Set with sister)
 -   ridley road studio - (Cassette series)
--   london fields
--   Wysing Arts - cambridge
+-   london fields - (Real-time dave processing)
+-   Wysing Arts - cambridge (808
 -   raven studio
 -   falmouth water sports centre - 
 -   palm beach hotel
 - Junction (Saving all my love and 2 booty preparations / Rave-off / winamp crash)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDkwNjc0MzMzXX0=
+eyJoaXN0b3J5IjpbLTE0MTExMDExMDVdfQ==
 -->
