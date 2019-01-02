@@ -1,3 +1,4 @@
+- **Venue - Location (Site specific work)**
 -   The Ruins - Carbis bay (real-time cave processing)
 -   [Cast](https://twitter.com/CASTCornwall/status/880357730523000832)  - Helston (the internet and timeless)
 -   The slab - Castle Beach (Real-time wave processing)
@@ -30,5 +31,5 @@
 - goody hooo (the great filter A)
 - New river studios (the great filter B)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTUyNzI2MF19
+eyJoaXN0b3J5IjpbLTUwMTkxNTcxM119
 -->
