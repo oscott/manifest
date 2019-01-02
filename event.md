@@ -22,11 +22,13 @@
 -   baracuda bar (DJ Set with sister)
 -   ridley road studio - (Cassette series)
 -   london fields - (Real-time dave processing)
--   Wysing Arts - cambridge (808
+-   Wysing Arts - cambridge (808, Violins, harps and horns)
 -   raven studio
 -   falmouth water sports centre - 
 -   palm beach hotel
 - Junction (Saving all my love and 2 booty preparations / Rave-off / winamp crash)
+- goody hooo (the great filter)
+- New river studios (the great filter B)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTExMDExMDVdfQ==
+eyJoaXN0b3J5IjpbLTE5Mjg0NTc1N119
 -->
