@@ -14,11 +14,11 @@
 -   pro-test lab LIETUVA - Vilnius (Cardboard Rave)
 -   A story to tell - Iasi Romania
 -   rome
--   Karl-Marx-Allee - berlin
+-   Karl-Marx-Allee - berlin (Batfinks DJ set)
 -   spargo
 -   gillingvase beach
 -   castle beach
--   public life - London
+-   public life - London (Cheap3 / Karma Camelian)
 -   baracuda bar
 -   ridley road studio - (Cassette series)
 -   london fields
@@ -26,7 +26,7 @@
 -   raven studio
 -   falmouth water sports centre - 
 -   palm beach hotel
-- Junction (Saving all my love and 2 booty preparations / Rave-off)
+- Junction (Saving all my love and 2 booty preparations / Rave-off / winamp crash)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NzI1OTYwMl19
+eyJoaXN0b3J5IjpbNDkwNjc0MzMzXX0=
 -->
