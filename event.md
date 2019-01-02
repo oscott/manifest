@@ -3,15 +3,15 @@
 -   The slab - Castle Beach (Real-time wave processing)
 -   Temperance Hall - Penryn (Nobody knows it but me)
 -   Stuart Stephen memorial hall for infant welfare - Penryn (frequencies)
--   The Shipwrites inn - Falmouth (Top )
+-   The Shipwrites inn - Falmouth (Top ten)
 -   38 west street
--   Penryn town hall - Penryn
--   kunst kernewek - Penryn
+-   Penryn town hall - Penryn (good vibrations)
+-   kunst kernewek - Penryn 
 -   Jubilee warehouse - Penryn (Tipler 1st showing)
--   miss peapods - Penryn
+-   miss peapods - Penryn (EA S&T)
 -   NTNU - trondheim (Funghi snack chime / Google video)
--   Bar - kyoto
--   pro-test lab LIETUVA - Vilnius 
+-   Bar - kyoto 
+-   pro-test lab LIETUVA - Vilnius (Cardboard Rave)
 -   A story to tell - Iasi Romania
 -   rome
 -   Karl-Marx-Allee - berlin
@@ -26,7 +26,7 @@
 -   raven studio
 -   falmouth water sports centre - 
 -   palm beach hotel
-- Junction (Saving all my love and 2 booty preparations)
+- Junction (Saving all my love and 2 booty preparations / Rave-off)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzEzMzcxNDg0XX0=
+eyJoaXN0b3J5IjpbMjA4NzI1OTYwMl19
 -->
