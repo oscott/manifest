@@ -1,4 +1,4 @@
-A selection of performance locations
+A selection of performance locations - in progress
 - **Venue - Location (Site specific work)**
 -   The Ruins - Carbis bay (real-time cave processing)
 -   [Cast](https://twitter.com/CASTCornwall/status/880357730523000832)  - Helston (the internet and timeless)
@@ -33,5 +33,5 @@ A selection of performance locations
 - New river studios (the great filter B)
 - Mexicos - Hayle (virtuagirl will dance for you now)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0MjAzNzc3XX0=
+eyJoaXN0b3J5IjpbMTM4MTk2MTk2NF19
 -->
