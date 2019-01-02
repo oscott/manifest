@@ -1,9 +1,9 @@
--   The Ruins - Carbis bay
--   [Cast](https://twitter.com/CASTCornwall/status/880357730523000832)  - Helston
--   The slab - Castle Beach
+-   The Ruins - Carbis bay (real-time cave processing)
+-   [Cast](https://twitter.com/CASTCornwall/status/880357730523000832)  - Helston (the internet and timeless)
+-   The slab - Castle Beach (Real-time wave processing)
 -   Temperance Hall - Penryn (Nobody knows it but me)
--   Stuart Stephen memorial hall for infant welfare - Penryn
--   The Shipwrites inn - Falmouth 
+-   Stuart Stephen memorial hall for infant welfare - Penryn (frequencies)
+-   The Shipwrites inn - Falmouth (Top )
 -   38 west street
 -   Penryn town hall - Penryn
 -   kunst kernewek - Penryn
@@ -28,5 +28,5 @@
 -   palm beach hotel
 - Junction (Saving all my love and 2 booty preparations)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzY3MTUxXX0=
+eyJoaXN0b3J5IjpbNzEzMzcxNDg0XX0=
 -->
