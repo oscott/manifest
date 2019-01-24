@@ -2,10 +2,10 @@
 
 1. This is `@YourCollection`
 2. Tell people about `@YourCollection`
-3. Get involved with `@YourCollection`
-4. Capture people using `@YourCollection`
-5. Share your thoughts about `@YourCollection`
-6. Ask questions about `@YourCollection`
+3. Capture people using `@YourCollection`
+4. Share your thoughts about `@YourCollection`
+5. Ask questions about `@YourCollection`
+6. Get involved with `@YourCollection`
 7. Follow `@YourCollection`
 8. See other peoples thoughts at `@YourCollection`
 
@@ -36,6 +36,6 @@ Thank you.
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> @oscott
 <br />This notice is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjQ2MTAxMiwtMTMyOTM1OTMyOSw3OT
-czMTgwXX0=
+eyJoaXN0b3J5IjpbNjE2NzQwMjEyLC0xMzI5MzU5MzI5LDc5Nz
+MxODBdfQ==
 -->
