@@ -20,6 +20,13 @@ Thank you.
 
 
 > Alternatively, use the wall below. Hopefully someone will photograph it and add it to `@YourCollection`
+
+<br>
+<br>
+<br>
+<br>
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This notice is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNDgxOTI3NCw3OTczMTgwXX0=
+eyJoaXN0b3J5IjpbLTY5MzgzMTE2NCw3OTczMTgwXX0=
 -->
