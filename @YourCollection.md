@@ -19,7 +19,7 @@ Thank you.
 <br>
 
 
-> Alternatively, use the wall below. We will photograph it and add it to `@YourCollection`
+> Alternatively, use the wall below. Hopefully someone will photograph it and add it to `@YourCollection`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2Mjk4MjIzNiw3OTczMTgwXX0=
+eyJoaXN0b3J5IjpbLTQzNDgxOTI3NCw3OTczMTgwXX0=
 -->
