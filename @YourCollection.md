@@ -33,9 +33,11 @@ Thank you.
 <br>
 <br>
 <br>
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> This notice is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. [](@oscott)
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a> This notice is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. 
+
+[@oscott](https://github.com/oscott)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQ3MTk0NDQsNjE2NzQwMjEyLC0xMz
-I5MzU5MzI5LDc5NzMxODBdfQ==
+eyJoaXN0b3J5IjpbNzY5OTY5ODc0LDYxNjc0MDIxMiwtMTMyOT
+M1OTMyOSw3OTczMTgwXX0=
 -->
