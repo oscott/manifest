@@ -9,9 +9,9 @@
 7. Follow `@YourCollection`
 8. See `@YourCollection`
 
-By mentioning `@YourCollection` you can contribute to our community archive.
+By mentioning `@YourCollection` you contribute to our community archive.
 
 Thank you.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3MzE4MF19
+eyJoaXN0b3J5IjpbLTE2MDMzMTk5MjQsNzk3MzE4MF19
 -->
