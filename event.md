@@ -32,6 +32,8 @@ A selection of performance locations - in progress
 - goody hooo (the great filter A)
 - New river studios (the great filter B)
 - Mexicos - Hayle (virtuagirl will dance for you now)
+- hollyfair - Gweek (tomorrows world)
+- glastonbury festival (koept vs rogue chimp)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MTk2MTk2NF19
+eyJoaXN0b3J5IjpbMTgwNTUwMzEyNSwxMzgxOTYxOTY0XX0=
 -->
