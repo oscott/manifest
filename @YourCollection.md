@@ -31,13 +31,11 @@ Thank you.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This notice is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This notice   by @oscott is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. 
+by @oscott  
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MzIyMTQ0NywtMTMyOTM1OTMyOSw3OT
+eyJoaXN0b3J5IjpbMTYxNDgxNjMwMSwtMTMyOTM1OTMyOSw3OT
 czMTgwXX0=
 -->
