@@ -13,7 +13,13 @@ By mentioning `@YourCollection` you contribute to `@YourCollection`
 
 Thank you.
 
-// Alternati
+<br>
+<br>
+<br>
+<br>
+
+
+> Alternatively, use the wall below. We will photograph it and add it to `@YourCollection`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk4MTk4OSw3OTczMTgwXX0=
+eyJoaXN0b3J5IjpbMTI2Mjk4MjIzNiw3OTczMTgwXX0=
 -->
