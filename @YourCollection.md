@@ -1,13 +1,14 @@
 # @YourCollection 
 
 1. This is `@YourCollection`
-2. Tell people about `@YourCollection`
-3. Capture people using `@YourCollection`
-4. Share your thoughts about `@YourCollection`
-5. Ask questions about `@YourCollection`
-6. Get involved with `@YourCollection`
-7. Follow `@YourCollection`
-8. See other peoples thoughts at `@YourCollection`
+2. 
+3. Tell people about `@YourCollection`
+4. Capture people using `@YourCollection`
+5. Share your thoughts about `@YourCollection`
+6. Ask questions about `@YourCollection`
+7. Get involved with `@YourCollection`
+8. Follow `@YourCollection`
+9. See other peoples thoughts at `@YourCollection`
 
 By mentioning `@YourCollection` you contribute to `@YourCollection`
 
@@ -37,6 +38,6 @@ Thank you.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0MDI4NjM5MSw2MTY3NDAyMTIsLTEzMj
-kzNTkzMjksNzk3MzE4MF19
+eyJoaXN0b3J5IjpbLTg5NjM4OTEwLC02NDAyODYzOTEsNjE2Nz
+QwMjEyLC0xMzI5MzU5MzI5LDc5NzMxODBdfQ==
 -->
