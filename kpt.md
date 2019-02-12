@@ -1,4 +1,4 @@
-To support and nourish original and important post-rave culture from Cornwall.
+To support and nourish original and important ~~Cornish~~ post-rave culture.
 
 
 Put stuff out that is too far out for other channels
@@ -64,6 +64,6 @@ sustainability
 
 Biodiversity and Neurodiversity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjI2MDYwMTMsMjE1ODMxNTkzLC00NT
-AxMjQxNTUsMTg1MjU4ODY0NV19
+eyJoaXN0b3J5IjpbMTM5Nzg4OTk0MSwtMTAyMjYwNjAxMywyMT
+U4MzE1OTMsLTQ1MDEyNDE1NSwxODUyNTg4NjQ1XX0=
 -->
