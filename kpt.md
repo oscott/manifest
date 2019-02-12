@@ -27,10 +27,10 @@ Neurodiversity
 
 ADVANCING INTELLECTUAL LEADERSHIP in All facets of Rave studies.
 
-INVESTING a variety energy IN PEOPLE AND DELIVERING THE ONE GALLERY ACCOMMODATION HUB 
+Developing bespoke personal frameworks INVESTING IN PEOPLE and developing 
 
 temporal 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODc1MzgwNjYsLTQ1MDEyNDE1NSwxOD
-UyNTg4NjQ1XX0=
+eyJoaXN0b3J5IjpbMTM3NDM0MzkyNCwtNDUwMTI0MTU1LDE4NT
+I1ODg2NDVdfQ==
 -->
