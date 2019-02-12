@@ -25,10 +25,12 @@ An international GALLERY collection FOR ALL - ethicaly promoting the secret unde
 
 Neurodiversity
 
-ADVANCING INTELLECTUAL LEADERSHIP in All facets of R 
+ADVANCING INTELLECTUAL LEADERSHIP in All facets of Rave studies.
+
+INVESTING a variety energy IN PEOPLE AND DELIVERING THE ONE GALLERY ACCOMMODATION HUB 
 
 temporal 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzU2MDg3NywtNDUwMTI0MTU1LDE4NT
-I1ODg2NDVdfQ==
+eyJoaXN0b3J5IjpbLTEyODc1MzgwNjYsLTQ1MDEyNDE1NSwxOD
+UyNTg4NjQ1XX0=
 -->
