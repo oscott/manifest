@@ -42,7 +42,7 @@ temporal
 
 
 - to consolidate, manage and research the Collection in ways that respond to changes in the world around Koept; 
-- to devise innovative programmes that engage with existing and new audiences, both in the galleries and through digital media and partnerships, whose expectations of their relationship with the museum are changing and whose participation will be a part of what Tate does; and
+- to devise innovative programmes that engage with existing and new audiences, both in exhibition halls and through digital media and partnerships, whose expectations of their relationship with the museum are changing and whose participation will be a part of what Tate does; and
 - to improve Tate by investing in staff development and the working culture, and develop Tate’s self reliance and business model for a sustainable future. 
 
 Major activities that Tate will undertake in doing this include:
@@ -51,6 +51,6 @@ Major activities that Tate will undertake in doing this include:
 - developing Tate’s digital offer; 
 - an enhanced programme of employee engagement.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4MTc5OTE2MiwtNDUwMTI0MTU1LDE4NT
-I1ODg2NDVdfQ==
+eyJoaXN0b3J5IjpbNTkzNjMzODE2LC00NTAxMjQxNTUsMTg1Mj
+U4ODY0NV19
 -->
