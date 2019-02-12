@@ -27,10 +27,12 @@ Neurodiversity
 
 ADVANCING INTELLECTUAL LEADERSHIP in All facets of Rave studies.
 
-Developing bespoke personal frameworks INVESTING IN PEOPLE and developing 
+Developing bespoke personal frameworks for self-INVESTING IN PEOPLE.
+
+Enforcing benevolent capacity in focalWE AIM TO BE 50% SELF-FUNDING BY 2022/3
 
 temporal 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NDM0MzkyNCwtNDUwMTI0MTU1LDE4NT
-I1ODg2NDVdfQ==
+eyJoaXN0b3J5IjpbLTIwNDY0NzY2NTcsLTQ1MDEyNDE1NSwxOD
+UyNTg4NjQ1XX0=
 -->
