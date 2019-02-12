@@ -15,11 +15,15 @@ TO EXPAND PROGRAMMES AND ACTIVITIES TO ENGAGE WITH THE CONTEMPORARY AUDIENCE
 Being responsible for sharing transient and ethemeral 
 To promote standard market alternatives
 
-Sustainably promoting glimpses of an alternative reality that is within our grasp yet not realised in this cu
+Sustainably promoting glimpses of an alternative reality that is within our grasp yet not realised in this current realm
+
+something the opposite of NEW AREAS FOR COLLECTION GROWTH
+
+Promote latent and fading nuances of A DIGITAL NATIONAL GALLERY FOR A DIGITAL WORLD
 
 
 temporal 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ0NjE0NzMyLC00NTAxMjQxNTUsMTg1Mj
+eyJoaXN0b3J5IjpbNDgyODI2MjY2LC00NTAxMjQxNTUsMTg1Mj
 U4ODY0NV19
 -->
