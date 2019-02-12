@@ -48,9 +48,9 @@ temporal
 Major activities that Koept will undertake in doing this include:
 - the fundraising and completion of capital projects;
 - embarking upon new partnerships that open new opportunities; 
-- developing Koept’s  offer; 
-- an enhanced programme of employee engagement.
+- developing Koept’s spatial offering; 
+- an enhanced programme of collaborator engagement and development.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc1MzkyMjI3LC00NTAxMjQxNTUsMTg1Mj
-U4ODY0NV19
+eyJoaXN0b3J5IjpbMTQyODExNTUyMywtNDUwMTI0MTU1LDE4NT
+I1ODg2NDVdfQ==
 -->
