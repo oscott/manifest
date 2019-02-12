@@ -1,3 +1,6 @@
+nourish and perpetuate original and important post-rave culture from Cornwall.
+
+
 Put stuff out that is too far out for other channels
 experimentation 
 fine art Rave.
@@ -61,6 +64,6 @@ sustainability
 
 Biodiversity and Neurodiversity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1ODMxNTkzLC00NTAxMjQxNTUsMTg1Mj
-U4ODY0NV19
+eyJoaXN0b3J5IjpbNDAyMTc1MTc4LDIxNTgzMTU5MywtNDUwMT
+I0MTU1LDE4NTI1ODg2NDVdfQ==
 -->
