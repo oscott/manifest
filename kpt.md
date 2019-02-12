@@ -12,13 +12,14 @@ instructional
 
 TO EXPAND PROGRAMMES AND ACTIVITIES TO ENGAGE WITH THE CONTEMPORARY AUDIENCE
 
-Being responsible for sharing transient and ethemeral non-
+Being responsible for sharing transient and ethemeral 
+To promote standard market alternatives
 
-
+Sustainably promoting glimpses of an alternative reality that is within our grasp yet not realised in this cu
 
 
 temporal 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzNzMwOTk3NywtNDUwMTI0MTU1LDE4NT
-I1ODg2NDVdfQ==
+eyJoaXN0b3J5IjpbODQ0NjE0NzMyLC00NTAxMjQxNTUsMTg1Mj
+U4ODY0NV19
 -->
