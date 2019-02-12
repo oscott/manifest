@@ -8,6 +8,17 @@ underground
 Rave 
 Abstraction
 instructional
+
+
+TO EXPAND PROGRAMMES AND ACTIVITIES TO ENGAGE WITH THE CONTEMPORARY AUDIENCE
+
+Being responsible for sharing transient and ethemeral non-
+
+
+
+
+temporal 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1MDEyNDE1NSwxODUyNTg4NjQ1XX0=
+eyJoaXN0b3J5IjpbMTgzNzMwOTk3NywtNDUwMTI0MTU1LDE4NT
+I1ODg2NDVdfQ==
 -->
