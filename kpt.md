@@ -29,10 +29,17 @@ ADVANCING INTELLECTUAL LEADERSHIP in All facets of Rave studies.
 
 Developing bespoke personal frameworks for self-INVESTING IN PEOPLE.
 
-Enforcing benevolent capacity in focalWE AIM TO BE 50% SELF-FUNDING BY 2022/3
+Enforcing benevolent capacity in focal means over ends.
 
 temporal 
+
+
+
+- care for, preserve and add to the works of art and documents in Tate’s Collection; 
+- secure that the works of art are exhibited to the public; 
+- secure that the works of art and documents are available to persons seeking to inspect them in connection with study or research; 
+- generally promote the public’s enjoyment and understanding of British art and of twentieth-century and contemporary art, both by means of Tate’s Collection and by such other means as it considers appropriate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDY0NzY2NTcsLTQ1MDEyNDE1NSwxOD
-UyNTg4NjQ1XX0=
+eyJoaXN0b3J5IjpbNzY3NDg1NDQxLC00NTAxMjQxNTUsMTg1Mj
+U4ODY0NV19
 -->
