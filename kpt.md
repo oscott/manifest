@@ -35,11 +35,11 @@ temporal
 
 
 
-- care for, preserve and add to the works of art and documents in Tate’s Collection; 
+- care for, preserve and add to the works of art and documents in our Collection; 
 - secure that the works of art are exhibited to the public; 
 - secure that the works of art and documents are available to persons seeking to inspect them in connection with study or research; 
-- generally promote the public’s enjoyment and understanding of British art and of twentieth-century and contemporary art, both by means of Tate’s Collection and by such other means as it considers appropriate.
+- generally promote the public’s enjoyment and understanding of Cornish art and of abstract and  art, both by means of Tate’s Collection and by such other means as it considers appropriate.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3NDg1NDQxLC00NTAxMjQxNTUsMTg1Mj
-U4ODY0NV19
+eyJoaXN0b3J5IjpbMTI4ODA0Mzg2NiwtNDUwMTI0MTU1LDE4NT
+I1ODg2NDVdfQ==
 -->
