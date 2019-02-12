@@ -50,7 +50,14 @@ Major activities that Koept will undertake in doing this include:
 - embarking upon new partnerships that open new opportunities; 
 - developing Koept’s spatial offering; 
 - an enhanced programme of collaborator engagement and development.
+
+
+sustainability
+
+- Strand A: Putting Tate’s house in order – embedding environmental sustainability within its buildings and operations 
+- Strand B: Leading and influencing the museum sector – driving real change towards more environmentally sustainable practices across the sector 
+- Strand C: Beyond the sector – engaging and influencing audiences on sustainability through inspiring experiences, research, dialogue and partnerships.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyODExNTUyMywtNDUwMTI0MTU1LDE4NT
+eyJoaXN0b3J5IjpbLTg4OTE5NzU1NywtNDUwMTI0MTU1LDE4NT
 I1ODg2NDVdfQ==
 -->
