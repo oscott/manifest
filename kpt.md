@@ -21,10 +21,14 @@ something the opposite of NEW AREAS FOR COLLECTION GROWTH
 
 Promote latent and fading nuances of obselete technological advances A DIGITAL NATIONAL GALLERY FOR A DIGITAL WORLD
 
-An international GALLERY collection FOR ALL - ethicaly promoting the secret underground cultures of Cornwall for people of all backgrounds and diverse 
+An international GALLERY collection FOR ALL - ethicaly promoting the secret underground cultures of Cornwall for people of from diverse backgrounds with divergant beliefs.
+
+Neurodiversity
+
+ADVANCING INTELLECTUAL LEADERSHIP in All facets of R 
 
 temporal 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDgxMjU4OCwtNDUwMTI0MTU1LDE4NT
+eyJoaXN0b3J5IjpbLTc1NzU2MDg3NywtNDUwMTI0MTU1LDE4NT
 I1ODg2NDVdfQ==
 -->
