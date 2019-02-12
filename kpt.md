@@ -19,11 +19,12 @@ Sustainably promoting glimpses of an alternative reality that is within our gras
 
 something the opposite of NEW AREAS FOR COLLECTION GROWTH
 
-Promote latent and fading nuances of A DIGITAL NATIONAL GALLERY FOR A DIGITAL WORLD
+Promote latent and fading nuances of obselete technological advances A DIGITAL NATIONAL GALLERY FOR A DIGITAL WORLD
 
+An international GALLERY colleFOR ALL
 
 temporal 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDgyODI2MjY2LC00NTAxMjQxNTUsMTg1Mj
+eyJoaXN0b3J5IjpbNzM4NDcyNzQ0LC00NTAxMjQxNTUsMTg1Mj
 U4ODY0NV19
 -->
